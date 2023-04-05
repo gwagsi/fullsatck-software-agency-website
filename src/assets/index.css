@@ -1,0 +1,23 @@
+/* SYLES FOR NAVBAR */
+.nav-menu {
+  background-color: blue;
+  width: 40%;
+}
+.nav-menu ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: aqua;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10%;
+  padding-right: 10%;
+  background-color: aquamarine;
+}
